@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\bin\Debug\Hata_Yonetimleri_3.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\bin\Debug\Hata_Yonetimleri_3.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\bin\Debug\Hata_Yonetimleri_3.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\obj\Debug\Hata_Yonetimleri_3.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\obj\Debug\Hata_Yonetimleri_3.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\obj\Debug\Hata_Yonetimleri_3.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Hata_Yonetimleri_3\Hata_Yonetimleri_3\obj\Debug\Hata_Yonetimleri_3.pdb
